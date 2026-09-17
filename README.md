@@ -4,8 +4,6 @@ A collection of data visualization projects from *Python Crash Course* (3rd Edit
 
 This repository contains examples using **Matplotlib** and **Plotly**.
 
----
-
 ## Projects Included
 
 | File                  | Description                              | Library    |
@@ -17,7 +15,6 @@ This repository contains examples using **Matplotlib** and **Plotly**.
 | `die.py`              | Die (dice) class                         | -          |
 | `die_visual.py`       | Visualizes dice roll results             | Plotly     |
 
----
 
 ## Requirements
 
